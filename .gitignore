@@ -44,5 +44,5 @@ buildNumber.properties
 #testng
 test-output/
 
-#exe
-drivers/*
+#selenium
+drivers/
